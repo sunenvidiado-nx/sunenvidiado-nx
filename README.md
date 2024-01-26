@@ -1,7 +1,6 @@
-### Hi there, I'm Sun!
+### Hi there, I'm Sun. ☀️
 
-I code, therefore I am... confused most of the time. 🤔
-
-- 📍 Located in Metro Manila, Philippines
+- 📍 Metro Manila, Philippines
 - 👨🏻‍💻 Flutter Developer at [Nextbank](https://www.nextbank.ph/)
-- 📫 Reach me at [sunadriann31@gmail.com](mailto:sunadriann31@gmail.com)
+- 📫 Feel free to connect and collaborate: [sunadriann31@gmail.com](mailto:sunadriann31@gmail.com)
+
